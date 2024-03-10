@@ -49,13 +49,13 @@ To use this program, follow these steps:
 
 ## Screenshots
 - ### /tweets 
-  - ![](https://github.com/Untraditional/Tweet-Reader/blob/main/Screenshots/tweets%20api.png)
+   ![](https://github.com/Untraditional/Tweet-Reader/blob/main/Screenshots/tweets%20api.png)
 
 - ### /externalLinks
-  - ![](https://github.com/Untraditional/Tweet-Reader/blob/main/Screenshots/external%20links%20api.png)
+   ![](https://github.com/Untraditional/Tweet-Reader/blob/main/Screenshots/external%20links%20api.png)
   
 - ### /tweets/details
-  -![](https://github.com/Untraditional/Tweet-Reader/blob/main/Screenshots/tweet%20details%20api.png)
+  ![](https://github.com/Untraditional/Tweet-Reader/blob/main/Screenshots/tweet%20details%20api.png)
 
 - ### /profile/details
-  - ![](https://github.com/Untraditional/Tweet-Reader/blob/main/Screenshots/profile%20details%20api.png)
+   ![](https://github.com/Untraditional/Tweet-Reader/blob/main/Screenshots/profile%20details%20api.png)

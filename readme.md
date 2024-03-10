@@ -8,7 +8,6 @@ To use this program, follow these steps:
 1. Import the project into your desired IDE that supports Spring Boot.
 2. Make sure Java and Spring Boot is installed.
 3. Run the TwitterReaderApplication via Spring Boot.
-  1. Right-click the project when opened in desired IDE, and run as Spring Boot Application.
 4. To test APIs it is suggested to use Postman.
 
 ## Endpoints

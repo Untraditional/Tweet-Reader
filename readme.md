@@ -1,4 +1,4 @@
-# Twitter Reader
+# Tweet Reader
 
 This program provides a set of RESTful APIs to interact with Twitter data stored in a JSON file. It allows users to retrieve tweets, extract external links from tweets, and obtain detailed information about tweets and Twitter users.
 

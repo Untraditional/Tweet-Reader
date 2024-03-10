@@ -48,14 +48,14 @@ To use this program, follow these steps:
 - Gson: For parsing JSON data, Gson is made by Google.
 
 ## Screenshots
-- ### /tweets 
+### /tweets 
    ![](https://github.com/Untraditional/Tweet-Reader/blob/main/Screenshots/tweets%20api.png)
 
-- ### /externalLinks
+### /externalLinks
    ![](https://github.com/Untraditional/Tweet-Reader/blob/main/Screenshots/external%20links%20api.png)
   
-- ### /tweets/details
+### /tweets/details
   ![](https://github.com/Untraditional/Tweet-Reader/blob/main/Screenshots/tweet%20details%20api.png)
 
-- ### /profile/details
+### /profile/details
    ![](https://github.com/Untraditional/Tweet-Reader/blob/main/Screenshots/profile%20details%20api.png)

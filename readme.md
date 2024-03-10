@@ -52,7 +52,7 @@ To use this program, follow these steps:
   - ![](C:\Users\Alex\Dropbox (University of Michigan)\Winter Semester 2024\CIS 376 - Software Engineering 2\Homework\TwitterReader\Screenshots\tweets api.png)
 
 - ### /externalLinks
-  - ![](C:\Users\Alex\Dropbox (University of Michigan)\Winter Semester 2024\CIS 376 - Software Engineering 2\Homework\TwitterReader\Screenshots\external links api.png)
+  - ![](https://github.com/Untraditional/Tweet-Reader/blob/main/Screenshots/external%20links%20api.png)
   
 - ### /tweets/details
   -![](C:\Users\Alex\Dropbox (University of Michigan)\Winter Semester 2024\CIS 376 - Software Engineering 2\Homework\TwitterReader\Screenshots\tweet details api.png)

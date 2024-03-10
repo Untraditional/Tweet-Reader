@@ -49,13 +49,13 @@ To use this program, follow these steps:
 
 ## Screenshots
 - ### /tweets 
-  - ![](C:\Users\Alex\Dropbox (University of Michigan)\Winter Semester 2024\CIS 376 - Software Engineering 2\Homework\TwitterReader\Screenshots\tweets api.png)
+  - ![](https://github.com/Untraditional/Tweet-Reader/blob/main/Screenshots/tweets%20api.png)
 
 - ### /externalLinks
   - ![](https://github.com/Untraditional/Tweet-Reader/blob/main/Screenshots/external%20links%20api.png)
   
 - ### /tweets/details
-  -![](C:\Users\Alex\Dropbox (University of Michigan)\Winter Semester 2024\CIS 376 - Software Engineering 2\Homework\TwitterReader\Screenshots\tweet details api.png)
+  -![](https://github.com/Untraditional/Tweet-Reader/blob/main/Screenshots/tweet%20details%20api.png)
 
 - ### /profile/details
-  - ![](C:\Users\Alex\Dropbox (University of Michigan)\Winter Semester 2024\CIS 376 - Software Engineering 2\Homework\TwitterReader\Screenshots\profile details api.png)
+  - ![](https://github.com/Untraditional/Tweet-Reader/blob/main/Screenshots/profile%20details%20api.png)

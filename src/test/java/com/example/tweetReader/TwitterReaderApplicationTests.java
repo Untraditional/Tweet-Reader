@@ -1,4 +1,4 @@
-package com.example.twitterreader;
+package com.example.tweetReader;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

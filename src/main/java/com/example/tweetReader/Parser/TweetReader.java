@@ -1,7 +1,7 @@
-package com.example.twitterreader.Parser;
+package com.example.tweetReader.Parser;
 
 import java.io.*;
-import com.example.twitterreader.entities.Tweet;
+import com.example.tweetReader.entities.Tweet;
 import com.google.gson.*;
 /*
     Created to read tweets from twitterInfo.json using Gson library from Google.

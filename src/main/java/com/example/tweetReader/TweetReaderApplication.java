@@ -1,13 +1,13 @@
-package com.example.twitterreader;
+package com.example.tweetReader;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TwitterReaderApplication {
+public class TweetReaderApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(TwitterReaderApplication.class, args);
+        SpringApplication.run(TweetReaderApplication.class, args);
     }
 
 }

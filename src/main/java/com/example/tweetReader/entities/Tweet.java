@@ -1,4 +1,4 @@
-package com.example.twitterreader.entities;
+package com.example.tweetReader.entities;
 /*
     Created to hold information regarding the tweets from the twitterInfo.json file.
     The User.java is related, it holds user data from the tweet.

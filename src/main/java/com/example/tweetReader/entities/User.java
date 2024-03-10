@@ -1,4 +1,4 @@
-package com.example.twitterreader.entities;
+package com.example.tweetReader.entities;
 /*
     Created for holding user data from the twitterInfo.json file.
  */

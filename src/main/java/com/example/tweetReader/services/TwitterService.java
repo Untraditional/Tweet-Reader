@@ -1,8 +1,8 @@
-package com.example.twitterreader.services;
+package com.example.tweetReader.services;
 
 
-import com.example.twitterreader.entities.Tweet;
-import com.example.twitterreader.Parser.TweetReader;
+import com.example.tweetReader.entities.Tweet;
+import com.example.tweetReader.Parser.TweetReader;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
